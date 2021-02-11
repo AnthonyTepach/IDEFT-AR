@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "691135715065",
+    "firebase_url": "https://ideft-ar.firebaseio.com",
+    "project_id": "ideft-ar",
+    "storage_bucket": "ideft-ar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691135715065:android:14a73b980a9487ebe03428",
+        "android_client_info": {
+          "package_name": "mx.computerforms.ar.ideft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691135715065-325kmkv5fl9769kqgj2eiepphu1mjk0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcmfwOui1Eb9Dl-JwvBoptwR-cx8yo-ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691135715065-325kmkv5fl9769kqgj2eiepphu1mjk0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

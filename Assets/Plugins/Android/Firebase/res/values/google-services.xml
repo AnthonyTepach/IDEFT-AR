@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://ideft-ar.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">691135715065</string>
+  <string name="google_storage_bucket" translatable="false">ideft-ar.appspot.com</string>
+  <string name="project_id" translatable="false">ideft-ar</string>
+  <string name="google_api_key" translatable="false">AIzaSyBcmfwOui1Eb9Dl-JwvBoptwR-cx8yo-ss</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBcmfwOui1Eb9Dl-JwvBoptwR-cx8yo-ss</string>
+  <string name="google_app_id" translatable="false">1:691135715065:android:14a73b980a9487ebe03428</string>
+  <string name="default_web_client_id" translatable="false">691135715065-325kmkv5fl9769kqgj2eiepphu1mjk0b.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{136ED678-EC61-9E7A-E33D-2174376CFF1F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/controlador.cs">
+    <Files>
+      <File FileName="Assets/Scripts/controlador.cs" Line="28" Column="5" />
+      <File FileName="Assets/Scripts/password.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IDEFT" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="IDEFT" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6ca5add5-8a7c-482d-a7b3-203bcd47e329" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
